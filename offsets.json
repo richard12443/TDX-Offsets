@@ -4,7 +4,7 @@
     "author": "Jonah (jonahw on Discord)",
     "github": "https://git.jonah.cool/jonah/roblox-dumper",
     "roblox_version": "version-4310300497aa4917",
-    "total_offsets": 318
+    "total_offsets": 322
   },
   "offsets": {
     "AirProperties": {
@@ -35,7 +35,7 @@
       "Threshold": 192
     },
     "CachedItem": {
-      "FileMeshData": 64
+      "FileMeshData": 40
     },
     "Camera": {
       "CFrame": 216,
@@ -103,7 +103,7 @@
       "Print": 30252432,
       "RaisePropertyChanged": 16270160,
       "Raycast": 15523312,
-      "SetParent": 15326112,
+      "SetParent": 11688416,
       "SetParentInternal": 30547680,
       "Shapecast": 15529904
     },
@@ -137,7 +137,7 @@
     "Highlight": {
       "Adornee": 184,
       "DepthMode": 224,
-      "Enabled": 232,
+      "Enabled": 244,
       "FillColor": 200,
       "FillTransparency": 228,
       "OutlineColor": 212,
@@ -219,7 +219,7 @@
       "MemEnforcedLRUCache": 32
     },
     "LruNode": {
-      "CachedItem": 64,
+      "CachedItem": 56,
       "MeshId": 16,
       "Next": 0
     },
@@ -341,6 +341,12 @@
       "Offset": 184,
       "Scale": 196,
       "TextureId": 296
+    },
+    "TaskScheduler": {
+      "JobEnd": 208,
+      "JobName": 24,
+      "JobStart": 200,
+      "Pointer": 146659560
     },
     "Team": {
       "TeamColor": 184
